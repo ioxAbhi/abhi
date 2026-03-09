@@ -51,4 +51,4 @@ youtube-search-python
 scipy==1.11.1
 soundfile==0.12.1
 librosa==0.10.0
-aiofiles==23.1.0
+aiofiles==25.1.0
